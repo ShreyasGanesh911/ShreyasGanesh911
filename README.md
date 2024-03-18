@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 👨‍💻 Interests [WEB3,AR-VR and cars](WEB3,AR-VR and cars)
+- 👨‍💻 Interests [WEB3,AR-VR and cars]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
