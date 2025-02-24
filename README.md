@@ -39,5 +39,5 @@
 <!-- <p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyasganesh911&" alt="shreyasganesh911" /></p> -->
 <h2>More about me:</h2>
 <p align="Left">
- <a href="https://shreyasganesh-portfolio-911.vercel.app" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/ab46d6c6-eadd-43b5-b1fb-44464be0f4fd" alt="Portfolio" width="100" height="100"/> </a>  
+ <a href="https://www.sgdev.online" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/ab46d6c6-eadd-43b5-b1fb-44464be0f4fd" alt="Portfolio" width="100" height="100"/> </a>  
 </p>
